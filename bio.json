@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": "1.0.1",
   "name": "Shayan Zamani",
   "description": "Front-End Web Developer & Optimization Enthusiast",
   "style": {
@@ -29,7 +29,7 @@
           "url": "https://t.me/ShayanTheNerd"
         },
         {
-          "title" "Email",
+          "title": "Email",
           "url": "mailto:dev.shayan.zamani@gmail.com"
         }
       ]
@@ -54,8 +54,8 @@
           "description": "Front-End Web Developer",
           "url": "https://fahoosh.com",
           "date": "January 2025–May 2025"
-        },
+        }
       ]
-    },
+    }
   ]
 }
