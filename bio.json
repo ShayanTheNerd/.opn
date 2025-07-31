@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "name": "Shayan Zamani",
+  "description": "Front-End Web Developer & Optimization Enthusiast",
+  "style": {
+    "theme": "dark",
+    "font": "sans-serif"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "type": "text",
+      "content": "I’m passionate about open source, continuous learning, and sharing knowledge with the dev community."
+    },
+    {
+      "title": "Socials",
+      "type": "links",
+      "links": [
+        {
+          "title": "GitHub",
+          "url": "https://github.com/ShayanTheNerd"
+        },
+        {
+          "title": "Website",
+          "url": "https://shayan-zamani.me"
+        },
+        {
+          "title": "Telegram",
+          "url": "https://t.me/ShayanTheNerd"
+        },
+        {
+          "title" "Email",
+          "url": "mailto:dev.shayan.zamani@gmail.com"
+        }
+      ]
+    },
+    {
+      "title": "Experience",
+      "type": "list",
+      "items": [
+        {
+          "title": "Freelance",
+          "description": "Web Developer",
+          "date": "July 2022–Present"
+        },
+        {
+          "title": "Epic Center",
+          "description": "Front-End Web Developer",
+          "url": "https://epic-center.ir",
+          "date": "May 2025–Present"
+        },
+        {
+          "title": "Fahoosh",
+          "description": "Front-End Web Developer",
+          "url": "https://fahoosh.com",
+          "date": "January 2025–May 2025"
+        },
+      ]
+    },
+  ]
+}
